@@ -56,12 +56,12 @@ Agar tampilan form lebih menarik, bisa ditambahkan CSS seperti berikut.
 ## Jawab
 1. HTML
 
-	![img1!](assets/img/praktikum/1.png)
+	![img1!](assets/img/input.png)
 
 	CSS
 
-	![img2!](assets/img/praktikum/2.png)
+	![img2!](assets/img/css.png)
 
 	Output
 
-	![img3!](assets/img/praktikum/3.png)
+	![img3!](assets/img/output.png)
